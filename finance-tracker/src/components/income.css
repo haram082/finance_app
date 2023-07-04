@@ -1,0 +1,19 @@
+.income-container{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+    text-align: center;
+}
+.deposit{
+    width: 132px;
+    padding: 8px;
+    color: #109110;
+    border: 3px solid black;
+ }
+.withdrawals{
+    color: #eb1a40;
+    padding: 8px;
+    border: 3px solid black;
+}

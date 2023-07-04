@@ -1,0 +1,35 @@
+.transactions-title{
+    text-align: center;
+    text-decoration: underline;
+    margin: 0px;
+    padding-bottom: 5px;
+}
+
+.list{
+    margin: 0px;
+    padding: 0px;
+    width: 330px;
+}
+.transactions-date{
+    color: #d3d3d3a8;
+    font-size: 10px;
+    padding-top: 6px;
+}
+
+.list li{
+    padding: 8px; 
+    border-bottom: 2px solid black;
+}
+
+span.transaction-amount{
+    float: right;
+}
+
+.list li.plus {
+    border-right: 5px solid #2ecc71;
+  }
+  
+  .list li.minus {
+    border-right: 5px solid #c0392b;
+  }
+
